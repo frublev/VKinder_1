@@ -1,7 +1,7 @@
 import vk_api
 import requests
 
-API_VERSION = '5.92'
+API_VERSION = '5.131'
 APP_ID = 7907533
 SCOPE = 1024
 
